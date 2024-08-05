@@ -43,7 +43,7 @@
             <ul class="navbar-nav iq-main-menu" id="sidebar-menu">
                 <li class="nav-item static-item">
                     <a class="nav-link static-item disabled" href="#" tabindex="-1">
-                        <span class="default-icon">Inicio</span>
+                        <span class="default-icon">Inicios</span>
                         <span class="mini-icon">-</span>
                     </a>
                 </li>
