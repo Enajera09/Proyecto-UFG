@@ -6,6 +6,6 @@
 @include('layout.nav')
 
 <center><h1>Página de ejemplo</h1></center>
-<p>PROBANDO</p>
+<p>Al carajo con esto</p>
 
 @endsection
